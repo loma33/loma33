@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## OlÀ seja bem vindo ao meu perfil 👋
+meu nome é Paloma estou estudando o alura
 <!--
 **loma33/loma33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
